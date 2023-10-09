@@ -10,3 +10,17 @@ tamilms45 for ubuntu
    Time : 11.30 Am
 
 
+
+                           Commands For Practice
+
+git log --author=username      -    identifying commits of the single user
+
+git help log                   -    helps to list all operations of git log
+
+git diff file name             -    it shows what is modified file in the source area
+
+git diff --staged filename     -    it shows what file we add in the stage area
+ 
+
+
+
