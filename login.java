@@ -15,7 +15,7 @@ tamilms45 for ubuntu
 
 git log --author=username      -    identifying commits of the single user
 
-git help log                   -    helps to list all 10 operations of git log
+git help log                   -    helps to list all 20 operations of git log
 
 git diff file name             -    it shows what is modified file in the source area
 
