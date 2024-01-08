@@ -1,2 +1,9 @@
-new file for commit some informations
+ file for commit some informations
+
+
+
+
+
+git branching
+
 
