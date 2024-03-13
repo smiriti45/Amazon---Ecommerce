@@ -18,6 +18,8 @@ git log --author=username      -    identifying commits of the single user
 git help log                   -    helps to list all 25 name             -    it shows what is modified file in the source area
 
 git diff --staged filename     -    it shows what file we add in the stage area
+
+new day of practice
  
 
 
