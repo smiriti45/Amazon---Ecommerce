@@ -20,6 +20,10 @@ git help log                   -    helps to list all 25 name             -    i
 git diff --staged filename     -    it shows what file we add in the stage area
 
 new day of practice
+
+
+
+git revert
  
 
 
