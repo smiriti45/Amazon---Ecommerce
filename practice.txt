@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+=======
+new File
+practice
+with pooja
+
+
+
+
+line number=8, next line is no.9
